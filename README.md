@@ -2,7 +2,7 @@
 
 
 ##Contributors
-Theo Ferreira
+> Theo Ferreira
 
 ##0. Subject
 
@@ -45,11 +45,11 @@ Otherwise, you might create a spatiotemporal disaster, the likes of which has ne
 ##1. Program
 
 USAGE
-	./philo -p nbr_p -e nbr_e
+> ./philo -p nbr_p -e nbr_e
 
 DESCRIPTION
-	-p nbr_p number of philosophers
-	-e nbr_e maximum number times a philosopher eats before exiting the program
+> -p nbr_p number of philosophers
+> -e nbr_e maximum number times a philosopher eats before exiting the program
 
 exemple:
 > ./philo -p 100 -e 10
