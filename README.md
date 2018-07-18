@@ -1,10 +1,11 @@
 # Dining philosophers problem
 
 
-##Contributors
-> Theo Ferreira
+## Contributors
 
-##0. Subject
+Theo Ferreira
+
+## 0. Subject
 
 A group of philosophers are dedicating themselves to a new project: dictating a group of rules about sharing
 natural resources to prevent world famine.
@@ -42,7 +43,7 @@ quota, program execution time,. . .)
 Obviously, each resource can only be used by one person at any given time.
 Otherwise, you might create a spatiotemporal disaster, the likes of which has never been seen.
 
-##1. Program
+## 1. Program
 
 USAGE
 > ./philo -p nbr_p -e nbr_e
