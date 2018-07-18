@@ -4,7 +4,7 @@
 
 ## Contributors
 
-Theo Ferreira
+[Theo Ferreira](https://github.com/theo-hubgrade)
 
 ## 0. Subject
 
