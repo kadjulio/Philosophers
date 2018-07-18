@@ -1,5 +1,7 @@
 # Dining philosophers problem
 
+[![CodeFactor](https://www.codefactor.io/repository/github/tgey/philosophers/badge)](https://www.codefactor.io/repository/github/tgey/philosophers)
+
 ![Screenshot](Philorating.png)
 
 ## Contributors
