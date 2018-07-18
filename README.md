@@ -1,5 +1,6 @@
 # Dining philosophers problem
 
+![Screenshot](Philorating.png)
 
 ## Contributors
 
